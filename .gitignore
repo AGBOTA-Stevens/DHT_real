@@ -1,8 +1,9 @@
 # Ignorer les fichiers de configuration VS Code
 .vscode/
-
+cpp_config.txt
 # Ignorer les fichiers de build Arduino
 build/
+data/img/youpiedit.mp4
 
 # Ignorer les fichiers temporaires
 *.tmp
