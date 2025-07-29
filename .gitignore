@@ -1,0 +1,9 @@
+# Ignorer les fichiers de configuration VS Code
+.vscode/
+
+# Ignorer les fichiers de build Arduino
+build/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
